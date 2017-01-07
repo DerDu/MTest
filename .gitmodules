@@ -1,3 +1,7 @@
 [submodule "MTest2"]
     path = MTest2
     url = https://github.com/DerDu/MTest2.git
+
+[submodule "MTest3"]
+    path = MTest2/MTest3
+    url = https://github.com/DerDu/MTest3.git
